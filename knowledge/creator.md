@@ -1,43 +1,54 @@
 # CREATOR PROFILE
 
+# CREATOR PROFILE
+
 ## Basic Information
 
-Name: Your Name
+Name: Karan Ghorpade
 Creator Brand: PYTHOSX
 Bio: Developer and designer who builds animated websites and AI-powered tools.
 Location: Mumbai, India
-Contact: hello@example.com
+Contact: your-real-email@example.com
 
 ## About
 
-Replace this section with a short description of who you are and what you make.
+Write your actual creator biography here.
 
 ## Skills
 
 - React
 - TypeScript
 - JavaScript
-- UI/UX design
-- AI integration
-- Web development
+- UI/UX Design
+- AI Integration
+- Web Development
 
 ## Projects
 
 ### Shadow Assistant
 
 Description: AI-powered creator assistant that answers audience questions and delivers resources.
+
 Technology: React, TypeScript, Vercel, Gemini, Telegram
-Features: Natural-language Q&A, keyword automations, two Telegram bots, human review
+
+Features:
+- Natural-language Q&A
+- Knowledge retrieval
+- Keyword automations
+- Two Telegram bots
+- Human review
+
 Status: In development
-URL: https://example.com/shadow-assistant
 
-### Malabar Street Kitchen Website
+URL: YOUR_REAL_URL
 
-Description: Animated restaurant website for a street kitchen in Deonar, Mumbai.
-Technology: React, Vite, Framer Motion
-Features: Animated hero, menu, responsive layout
-Status: Built
-URL: https://example.com/malabar
+## Services
+
+- Custom animated websites
+- AI assistants
+- UI/UX design
+
+...
 
 ## Services
 
